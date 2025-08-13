@@ -25,6 +25,7 @@
 - [10. Quy trình đóng góp](#10-quy-trình-đóng-góp)
 - [11. Gắn Topics & mô tả GitHub](#11-gắn-topics--mô-tả-github)
 - [12. Miễn trừ trách nhiệm](#12-miễn-trừ-trách-nhiệm)
+- [Bản quyền](#bản-quyền)
 
 ---
 
@@ -163,3 +164,9 @@ gh repo edit <owner>/<repo>   --description "Template hướng dẫn giấy phé
 
 Tài liệu này nhằm mục đích **thông tin/giáo dục**, **không** phải tư vấn pháp lý.  
 Bạn chịu trách nhiệm cuối cùng cho việc tuân thủ giấy phép & pháp luật hiện hành.
+
+---
+
+## 📜 Bản quyền
+
+Phát hành theo giấy phép **MIT** — xem [LICENSE](./LICENSE).
