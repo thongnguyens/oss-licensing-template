@@ -25,7 +25,7 @@
 - [10. Quy trình đóng góp](#10-quy-trình-đóng-góp)
 - [11. Gắn Topics & mô tả GitHub](#11-gắn-topics--mô-tả-github)
 - [12. Miễn trừ trách nhiệm](#12-miễn-trừ-trách-nhiệm)
-- [Bản quyền](#bản-quyền)
+- [📜 Bản quyền](#📜-bản-quyền)
 
 ---
 
