@@ -25,7 +25,7 @@
 - [10. Quy trình đóng góp](#10-quy-trình-đóng-góp)
 - [11. Gắn Topics & mô tả GitHub](#11-gắn-topics--mô-tả-github)
 - [12. Miễn trừ trách nhiệm](#12-miễn-trừ-trách-nhiệm)
-- [📜 Bản quyền](#📜-bản-quyền)
+- [13. LICENSES](#13-LICENSES)
 
 ---
 
@@ -167,6 +167,6 @@ Bạn chịu trách nhiệm cuối cùng cho việc tuân thủ giấy phép & p
 
 ---
 
-## 📜 Bản quyền
+## 13. LICENSES
 
 Phát hành theo giấy phép **MIT** — xem [LICENSE](./LICENSE).
